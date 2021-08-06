@@ -1,0 +1,12 @@
+[config]
+webkey = "CD0F0860295DDF54B2E709047F262404"
+
+[[hook]]
+# XCOM 2 on Server 1
+url = "https://discord.com/api/webhooks/872404067173949462/7pX-6Pz-WJhuTPfhAp3GmfZ0TWY9g7p3WTam1_UQDsmmgKheIKZkoMU1iWW_HGdlXl6K"
+ids = [294100]
+
+[[hook]]
+# XCOM 2 + Slay the Spire on Server 2
+url = "https://discord.com/api/webhooks/872518742456799272/Pn6p-d7UBs7hFhTsBRFKEZOKGT00OsxiuNDwXq37fo4H5d-WmfX9wP3eHVpXTH4_eVvn"
+ids = [294100]
